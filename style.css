@@ -1,0 +1,6 @@
+.table-nbp{
+	float: left;
+}
+.table-nbp table, th, td{
+	border: 1px solid black;
+}
